@@ -17,5 +17,12 @@ Backend URL:
 http://localhost/backend/save_search.php
 
 
-### Screenhots
-#Frontend:-)
+## Screenshots
+
+### Frontend
+![GitHub Repo Finder Frontend](./ScreenShots/front_GitF.png)
+![Frontend Code](./ScreenShots/Code_Front.png)
+
+### Database
+![Database in phpMyAdmin](./ScreenShots/DB_PHP.png)
+![Database Code](./ScreenShots/DB_code.png)
